@@ -36,8 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_rust_bridge: 2.13.0
   flutter_rust_bridge_hooks: 2.13.0
-  shadcn_ui: ^0.57.0
-
+  forui: ^0.27.2
+  material_ui: ^1.4.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -50,6 +50,7 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   integration_test:
     sdk: flutter
+  forui_cli: ^0.27.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
